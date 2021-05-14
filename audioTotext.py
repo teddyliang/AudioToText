@@ -1,6 +1,6 @@
 """
 This project aims to build a simple audio to text artificial intelligence using keras and a convulutional neural network.
-It is trained on data from the Kaggle "TensorFlow Speech Recognition Challenge."
+The data is taken from the Kaggle "TensorFlow Speech Recognition Challenge."
 It is trained on the words "yes, no, up, down, left, right, on off, stop, go."
 """
 #importing libraries
